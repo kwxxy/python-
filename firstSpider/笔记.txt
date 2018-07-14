@@ -1,0 +1,19 @@
+URL 管理器
+    判断是否有 url ： has_new_url()
+    将新的 url 添加到未爬取的集合中： add_new_url(), add_new_urls()
+    获取一个未爬取的 url ： get_new_url()
+    获取为爬取 url 集合大小： old_new_size()
+    获取为未爬取 url 集合大小： new_url_size()
+
+
+HTML 下载器
+    下载页面： download()
+
+
+HTML 解析器
+
+
+数据存储器
+
+
+爬虫调度器
